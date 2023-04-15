@@ -1,8 +1,7 @@
 package com.spring.streams.examples;
 
-
-import com.amigoscode.beans.Car;
-import com.amigoscode.mockdata.MockData;
+import com.spring.streams.beans.Car;
+import com.spring.streams.mockdata.MockData;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

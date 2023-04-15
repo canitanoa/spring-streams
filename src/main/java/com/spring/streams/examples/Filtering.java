@@ -1,11 +1,9 @@
 package com.spring.streams.examples;
 
 
-//import org.junit.jupiter.api.Test;
-
 import com.spring.streams.beans.Car;
 import com.spring.streams.mockdata.MockData;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;

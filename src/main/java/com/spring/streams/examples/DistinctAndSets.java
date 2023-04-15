@@ -1,9 +1,7 @@
 package com.spring.streams.examples;
 
 
-//import org.junit.jupiter.api.Test;
-
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.List;
 import java.util.Set;
